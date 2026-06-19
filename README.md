@@ -1,4 +1,4 @@
 # Код для проекта «Усвоение глагольных категорий русского языка детьми 1-3 лет: корпусное исследование» (НИС «Детская речь», ФиКЛ НИУ ВШЭ, 2025-2026)
-Авторы: Егор Формановский, Арсений Корнеев  
-Весь код содержится в файле detrech.ipynb  
-Исследование проведено на материале корпуса: Lelik, V., Diachkova, M., Dorofeeva, S. V., Lopukhina, A., Dragoy, O., Sekerina, I. A. (2025). RusLan-M Corpus. Retrieved from https://childes.talkbank.org doi:10.21415/1XMG-D508 
+* Авторы: Егор Формановский, Арсений Корнеев  
+* Весь код содержится в файле detrech.ipynb  
+* Исследование проведено на материале корпуса: Lelik, V., Diachkova, M., Dorofeeva, S. V., Lopukhina, A., Dragoy, O., Sekerina, I. A. (2025). RusLan-M Corpus. Retrieved from https://childes.talkbank.org doi:10.21415/1XMG-D508 
